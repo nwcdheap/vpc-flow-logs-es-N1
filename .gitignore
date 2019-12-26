@@ -1,0 +1,12 @@
+# OS X
+.DS_Store
+
+# TypeScript
+*.d.ts
+
+# Node
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
